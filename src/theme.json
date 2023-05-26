@@ -1,0 +1,36 @@
+{
+  "fonts": {
+    "primary": {
+      "name": "Manrope",
+      "weights": [
+        300,
+        400,
+        500,
+        600
+      ]
+    },
+    "special": {
+      "name": "Lobster",
+      "weights": [
+        400
+      ]
+    }
+  },
+  "colors": {
+    "primary": "#38c948",
+    "darkYellow": "#ff7e00",
+    "lightYellow": "#ffd200",
+    "backgroundPage": "#FFFFFF",
+    "black": "#000000",
+    "lightBlack": "#535353",
+    "gray": "#737373",
+    "white": "#FFFFFF",
+    "headingColor": "#000000",
+    "textColor": "#C4C4C4",
+    "mainCover": "#252831"
+  },
+  "consts": {
+    "header_h": "64px",
+    "sidebar_w": "64px"
+  }
+}

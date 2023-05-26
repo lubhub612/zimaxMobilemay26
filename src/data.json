@@ -1,0 +1,500 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "Try Down Bad",
+        "description": "In 'Argentina: #IRCs21' the artists have carefully crafted a AFA medallion and framed it in a recognizable trophy like design. Interactive NFT's visually adjust according to Argentina's performance; at one point the shield will shine bright in a grand and sparkling golden frame when the team wins, its standard setting when there is a tie, and if losing, turns to a rainy bronze reflection of a lost match.",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "500",
+        "url": "/videos/NFT-image5.png"
+      },
+      {
+        "id": 2,
+        "title": "Argentina: Official 2021 Team Jersey",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "4000",
+        "url": "https://storage.googleapis.com/ethernity-nft/mainnet/nft/0x96E9144C3c01F9F9F80614c5C501884a5609dc25/nft.mp4"
+      },
+      {
+        "id": 3,
+        "title": "Argentina: Mystery Box",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image2.png"
+      },
+      {
+        "id": 4,
+        "title": "Luis Suarez: Common",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 5,
+        "title": "Luis Suarez: Legendary",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 6,
+        "title": "Luis Suarez: Epic",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image3.png"
+      },
+      {
+        "id": 7,
+        "title": "Luis Suarez: A Gilded Match",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 8,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image4.png"
+      },
+      {
+        "id": 9,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 10,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 11,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 12,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 13,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 14,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 15,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 16,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 17,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 18,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 19,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 20,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 21,
+        "title": "Try Down Bad",
+        "description": "In 'Argentina: #IRCs21' the artists have carefully crafted a AFA medallion and framed it in a recognizable trophy like design. Interactive NFT's visually adjust according to Argentina's performance; at one point the shield will shine bright in a grand and sparkling golden frame when the team wins, its standard setting when there is a tie, and if losing, turns to a rainy bronze reflection of a lost match.",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "500",
+        "url": "/videos/NFT-image5.png"
+      },
+      {
+        "id": 22,
+        "title": "Argentina: Official 2021 Team Jersey",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "4000",
+        "url": "https://storage.googleapis.com/ethernity-nft/mainnet/nft/0x96E9144C3c01F9F9F80614c5C501884a5609dc25/nft.mp4"
+      },
+      {
+        "id": 23,
+        "title": "Argentina: Mystery Box",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image2.png"
+      },
+      {
+        "id": 24,
+        "title": "Luis Suarez: Common",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 25,
+        "title": "Luis Suarez: Legendary",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 26,
+        "title": "Luis Suarez: Epic",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image3.png"
+      },
+      {
+        "id": 27,
+        "title": "Luis Suarez: A Gilded Match",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/nft.mp4"
+      },
+      {
+        "id": 28,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image4.png"
+      },
+      {
+        "id": 29,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image3.png"
+      },
+      {
+        "id": 30,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image.png"
+      },
+      {
+        "id": 31,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image5.png"
+      },
+      {
+        "id": 32,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image.png"
+      },
+      {
+        "id": 33,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image1.png"
+      },
+      {
+        "id": 34,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image2.png"
+      },
+      {
+        "id": 35,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image3.png"
+      },
+      {
+        "id": 36,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image3.png"
+      },
+      {
+        "id": 37,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image4.png"
+      },
+      {
+        "id": 38,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image5.png"
+      },
+      {
+        "id": 39,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image5.png"
+      },
+      {
+        "id": 40,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image4.png"
+      },
+      {
+        "id": 41,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image3.png"
+      },
+      {
+        "id": 42,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image2.png"
+      },
+      {
+        "id": 43,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image1.png"
+      },
+      {
+        "id": 44,
+        "title": "Heavy Metal: Mortermir Trading Card",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "url": "/videos/NFT-image.png"
+      }
+    ],
+    "collections" :[
+      {
+        "id": 1,
+        "title": "On1 Force",
+        "description": "0N1 Force are 7,777 unique collectibles Hand Illustrated by @TRUEIMCMPLX #NFTs",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "500",
+        "photo": "/images/on1force.png",
+        "logo": "/images/on1force-logo.png",
+        "site": "www.on1force.com"
+      },
+      {
+        "id": 2,
+        "title": "ZiMax NFT Marketplace",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "4000",
+        "description": "Crypto  Gaming Investing Community ZMX #Gamers #NFTS #HYPER #DEFI Time to get in the game!",
+        "photo": "/images/hyperchain-x.png",
+        "logo": "/images/hyperchain-x-logo.png",
+        "site": "www.on1force.com"
+      },
+      {
+        "id": 3,
+        "title": "ZMX",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "description": "Crypto  Gaming Investing Community ZMX #Gamers #NFTS #HYPER #DEFI Time to get in the game!",
+        "priceValue": "250",
+        "photo": "/images/hyperchain-x.png",
+        "logo": "/images/hyperchain-x-logo.png",
+        "site": "www.on1force.com"
+      },
+      {
+        "id": 4,
+        "title": "On1 Force",
+        "description": "0N1 Force are 7,777 unique collectibles Hand Illustrated by @TRUEIMCMPLX #NFTs",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "500",
+        "photo": "/images/on1force.png",
+        "logo": "/images/on1force-logo.png",
+        "site": "www.on1force.com"
+      },
+      {
+        "id": 5,
+        "title": "ZiMax",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "4000",
+        "photo": "/images/hyperchain-x.png",
+        "description": "Crypto  Gaming Investing Community ZMX #Gamers #NFTS #ZMX #DEFI Time to get in the game!",
+        "logo": "/images/hyperchain-x-logo.png",
+        "site": "www.on1force.com"
+      },
+      {
+        "id": 6,
+        "title": "ZiMax X",
+        "description": "Crypto  Gaming Investing Community ZMX #Gamers #NFTS #ZMX #DEFI Time to get in the game!",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "250",
+        "photo": "/images/hyperchain-x.png",
+        "logo": "/images/hyperchain-x-logo.png",
+        "site": "www.on1force.com"
+      }
+    ],
+    "weapons" : [
+      {
+        "id": 1,
+        "title": "ZMX Gun 1",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "190",
+        "url": "/images/guns/gun-1.png",
+        "type": "machine_gun"
+      },
+      {
+        "id": 2,
+        "title": "ZiMax Gun 2",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "190",
+        "url": "/images/guns/gun-2.png",
+        "type": "gun"
+      },
+      {
+        "id": 3,
+        "title": "ZiMax Gun 3",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "190",
+        "url": "/images/guns/gun-3.png",
+        "type": "machine_gun"
+      },
+      {
+        "id": 4,
+        "title": "ZiMax Gun 4",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "190",
+        "url": "/images/guns/gun-4.png",
+        "type": "rifle"
+      },
+      {
+        "id": 5,
+        "title": "ZiMax Gun 5",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "190",
+        "url": "/images/guns/gun-5.png",
+        "type": "gun"
+      },
+      {
+        "id": 6,
+        "title": "ZiMax Gun 6",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "190",
+        "url": "/images/guns/gun-6.png",
+        "type": "machine_gun"
+      },
+      {
+        "id": 7,
+        "title": "ZiMax Gun 7",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "190",
+        "url": "/images/guns/gun-7.png",
+        "type": "gun"
+      },
+      {
+        "id": 8,
+        "title": "ZiMax Gun 8",
+        "artist": "a dummy description about this page",
+        "priceLabel": "test, dummy, data",
+        "priceValue": "190",
+        "url": "/images/guns/gun-8.png",
+        "type": "machine_gun"
+      }
+    ]
+}

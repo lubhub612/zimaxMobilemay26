@@ -1,0 +1,242 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  /* display: none; <- Crashes Chrome on hover */
+  -webkit-appearance: none;
+  margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[type='number'] {
+  -moz-appearance: textfield; /* Firefox */
+}
+.root-container {
+  margin: auto;
+  max-width: 900px;
+}
+.cal-content-title {
+  color: #d0dce8;
+  text-align: center;
+}
+
+.cal-content-title h2 {
+  font-size: 40px;
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+.cal-content-title h2 strong {
+  color: #38c948;
+}
+
+.cal-content-title p {
+  padding: 10px 50px 50px;
+  line-height: 1.8;
+}
+
+.main-container {
+  margin: 30px 0 100px;
+}
+.main-container-area {
+  background: linear-gradient(
+    90deg,
+    rgb(0, 255, 240) 0%,
+    rgb(0, 240, 255) 50%,
+    rgb(255, 0, 249) 100%
+  );
+  border-radius: 10px;
+  max-width: 900px;
+  padding: 3px;
+}
+.calc-container {
+  max-width: 900px;
+  border-radius: 10px;
+  transition: 0.5s;
+  background: linear-gradient(
+    95.13deg,
+    rgb(15, 17, 32) 0%,
+    rgb(21, 23, 43) 100%
+  );
+  padding: 16px 32px;
+}
+.calc-heading h2 {
+  font-size: 20px;
+  color: #ffffff;
+}
+.calc-heading span {
+  font-weight: 600;
+  font-size: 12px;
+  color: #fff;
+}
+.range-container span {
+  color: #fff;
+}
+.calc-price-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 40px 0px;
+}
+.calc-price-wrap {
+  text-align: center;
+}
+.calc-price-wrap h3 {
+  color: #fff;
+}
+.calc-price-wrap h2 {
+  font-size: 20px;
+  color: #fff;
+}
+.calc-price-wrap .color-white {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+.calc-matrix {
+  /* margin-top: 24px; */
+}
+.calc-matrix .data {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 24px 0px;
+  color: #ffffff;
+}
+
+.calc-grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.field {
+  height: 80px;
+  width: 100%;
+  margin-top: 4px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(
+    95.13deg,
+    rgba(22, 24, 48, 0.25) 0%,
+    rgba(46, 51, 92, 0.25) 100%
+  );
+  box-shadow: rgb(0 0 0) 5px 5px 7px -5px;
+  padding: 10px;
+}
+.field-wrap {
+  flex-basis: 48%;
+  margin-bottom: 24px;
+}
+.field-wrap span {
+  font-weight: 500;
+  color: #fff;
+}
+.field span {
+  font-size: 18px;
+  font-weight: 600;
+  padding-right: 12px;
+  color: #ffffff;
+  cursor: pointer;
+}
+.field input {
+  width: 100%;
+  height: 100%;
+  outline: 0;
+  border: 0;
+  background: transparent;
+  color: hsla(0, 0%, 100%, 0.6);
+  padding-left: 20px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+.field input::placeholder {
+  font-family: 'Montserrat', sans-serif;
+  color: hsla(0, 0%, 100%, 0.6);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 991px) {
+  .cal-content-title {
+    margin: 30px;
+  }
+
+  .cal-content-title h2 {
+    font-size: 30px;
+    margin: 0;
+    margin-top: 50px;
+  }
+  .cal-content-title p {
+    padding: 0px 0px 30px;
+    line-height: 1.8;
+    font-size: 14px;
+  }
+  .main-container {
+    margin: 30px 30px 100px;
+  }
+  .calc-price-container {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .calc-price-wrap {
+    flex-basis: 50%;
+  }
+  .mob-mt {
+    margin-top: 24px;
+  }
+}
+@media (max-width: 600px) {
+  .calc-grid-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .calc-container {
+    padding: 16px 20px;
+  }
+}
+@media (max-width: 450px) {
+  .calc-price-container {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .calc-price-wrap {
+    flex-basis: 100%;
+  }
+  .mob-mt {
+    margin-top: 0px;
+  }
+  .calc-price-wrap {
+    margin-bottom: 16px;
+  }
+  .calc-matrix .data p {
+    font-size: 14px;
+  }
+  .calc-matrix .data span {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 1650px) {
+  .calc-container {
+    max-width: 1100px;
+  }
+}
+.buy-zmx-token {
+  text-align: center;
+  margin: 30px;
+}
+.buy-zmx-token a {
+  background: #03ffff;
+  color: #000;
+  text-decoration: none;
+  font-weight: 700;
+  padding: 12px 50px;
+  display: inline-block;
+  border-radius: 6px;
+}
